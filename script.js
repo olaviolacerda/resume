@@ -1,7 +1,7 @@
 fetch("data.json")
     .then((response) => response.json())
     .then((data) => {
-        document.title = data.title; // Set the document title
+        document.title = `${data.name} - Resume`; // Set the document title dynamically
         document.getElementById("name").textContent = data.name;
         document.getElementById("title").textContent = data.title;
         document.getElementById("contact").textContent =

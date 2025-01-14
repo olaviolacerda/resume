@@ -139,6 +139,14 @@ footer {
     color: #000;
     text-decoration: none;
   }
+
+  @page {
+    margin: 0;
+  }
+
+  header, footer {
+    display: none;
+  }
 }
 
 
