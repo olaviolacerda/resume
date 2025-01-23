@@ -188,5 +188,17 @@
             "date": "May 2018 - Apr 2019",
             "description": "Taught programming to teenagers from the local community at the Amparo Santa Cruz Institution in Porto Alegre. This initiative aimed to provide better opportunities and contribute to community development through programming education."
         }
+    ],
+    "opensource": [
+        {
+            "project": "Deno - Standard Library",
+            "description": "Fixed an example in the JSDocs for the Expect.ObjectContaining in the testing module.",
+            "link": "https://github.com/denoland/std/pull/6357"
+        },
+        {
+            "project": "Microsoft - TypeScript Website",
+            "description": "Translated some files and examples from English to Portuguese as part of a community effort.",
+            "link": "https://github.com/microsoft/TypeScript-Website/pull/1054"
+        }
     ]
 }

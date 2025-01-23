@@ -65,9 +65,17 @@ fetch("data.json")
             volunteeringContainer.appendChild(div);
         });
 
-        document.getElementById("languages").textContent = data.languages.join(
-            " | ",
-        );
+        const opensourceContainer = document.getElementById("opensource");
+        data.opensource.forEach((contribution) => {
+            const div = document.createElement("div");
+            div.innerHTML = `
+    <h3>${contribution.project}</h3>
+    <p>${contribution.description}</p>
+    <p><a href="${contribution.link}">View Contribution</a></p>
+  `;
+            opensourceContainer.appendChild(div);
+        });
+
         document.getElementById("footer").textContent = `© ${
             new Date().getFullYear()
         } - ${data.name}`;
