@@ -1,204 +1,166 @@
 {
-    "name": "Roger Oliveira",
-    "title": "Software Engineer",
-    "location": "Porto Alegre, Rio Grande do Sul, Brazil",
-    "phone": "+55 (051) 9 9883 8883",
-    "email": "roger.dev.br@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/rogerpoliver/",
-    "github": "https://github.com/rogerpoliver",
-    "summary": "I am a software developer with experience since 2015 in both established corporations like HP, Dell, and ADP, as well as dynamic startup environments. My expertise covers a wide range of languages and frameworks. I hold a degree in Systems Analysis and Development from FIAP, along with postgraduate studies in Data Science, Software Engineering, and Mobile Development. Currently, I am studying Domain-Driven Design (DDD) and applying it to a project called '<a href=\"https://github.com/rogerpoliver/ddd-forum\" target=\"_blank\">DDD Forum</a>', available on my GitHub. I am driven by a passion for creating software that makes a meaningful impact, simplifying processes, and improving the lives of users and clients through innovative and efficient solutions.",
-    "experience": [
-        {
-            "title": "Senior Developer",
-            "company": "ADP Brazil Labs",
-            "date": "May 2022 - Present",
-            "tasks": [
-                "Developing agnostic micro front-end solutions using StencilJS, ensuring seamless integration with frameworks like React.js, Angular, and other SPA systems.",
-                "Optimizing backend operations through robust and efficient implementations in Node.js.",
-                "Created solutions to structure unstructured data, leveraging advanced Language Models like Mistral, GPT-3.5, and GPT-4 for enhanced user experiences and data workflows.",
-                "Contributing to the Embedded Payroll project by integrating systems into US banking platforms, addressing complex challenges related to security and multi-technology compatibility."
-            ]
-        },
-        {
-            "title": "Senior Developer",
-            "company": "Equipe HUB",
-            "date": "Nov 2021 - May 2022",
-            "tasks": [
-                "Led the technical development of BuzzFeed Brazil's website and CMS, ensuring high-quality deliverables.",
-                "Managed a team of five developers, overseeing sprint planning, backlog prioritization, and team engagement.",
-                "Collaborated with BuzzFeed's global team to align local developments with international quality standards and practices."
-            ]
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "Dell Technologies",
-            "date": "Sep 2021 - Nov 2021",
-            "tasks": [
-                "Designed and implemented microservices tailored to meet the specific needs of LATAM Finance IT systems.",
-                "Collaborated with international teams from Latin America to ensure cohesive development across regions.",
-                "Contributed to the creation of critical microservices using .NET technologies, enhancing the software's performance and scalability."
-            ]
-        },
-        {
-            "title": "Software Engineer",
-            "company": "ESSS",
-            "date": "Jun 2021 - Sep 2021",
-            "tasks": [
-                "Developed advanced features for Rocky DEM, a 3D particle simulation desktop application.",
-                "Utilized C++ for API development and Python with QT for creating a user-friendly graphical interface.",
-                "Collaborated with multi-disciplinary teams to enhance simulation accuracy and performance."
-            ]
-        },
-        {
-            "title": "Software Design Engineer III",
-            "company": "HP inc",
-            "date": "Nov 2020 - Jun 2021",
-            "tasks": [
-                "Led the migration of a monolithic application to a cloud-native microservices architecture for the Protrack3 project.",
-                "Established automated testing standards, focusing on robust unit tests and front-end behavioral testing."
-            ]
-        },
-        {
-            "title": "Software Design Engineer II",
-            "company": "HP inc",
-            "date": "May 2019 - Oct 2020",
-            "tasks": [
-                "Enhanced and maintained features for the Protrack2 ASP.NET application, used for tracking R&D project hours.",
-                "Developed a financial management module for tracking project expenses and organizing critical accounting records."
-            ]
-        },
-        {
-            "title": "Software Design Engineer I",
-            "company": "HP inc",
-            "date": "May 2017 - Apr 2019",
-            "tasks": [
-                "Maintained and supported a legacy ASP.NET Webforms application, ensuring its stability and reliability.",
-                "Assisted in software configuration management, including monitoring virtual machines and managing version control repositories."
-            ]
-        },
-        {
-            "title": "Intern",
-            "company": "ACCERA, Supply and Sales Empowered",
-            "date": "Jan 2015 - Nov 2016",
-            "tasks": [
-                "Analyzed and reported supply chain data using Microsoft Excel, delivering actionable insights.",
-                "Automated recurring tasks with Python and Shell Scripting, improving team productivity.",
-                "Managed and maintained databases with Microsoft SQL Server to ensure data integrity and accessibility."
-            ]
-        }
-    ],
-    "education": [
-        {
-            "degree": "MBA",
-            "field": "Leadership and People Management",
-            "institution": "Descomplica Faculdade Digital",
-            "date": "2024 - 2025"
-        },
-        {
-            "degree": "Specialization Degree",
-            "field": "Cross-platform Mobile App Development",
-            "institution": "Descomplica Faculdade Digital",
-            "date": "2023 - 2024"
-        },
-        {
-            "degree": "Specialization Degree",
-            "field": "Data Science",
-            "institution": "UniRitter",
-            "date": "2020 - 2021"
-        },
-        {
-            "degree": "Technologist Degree",
-            "field": "Computer Systems Analysis and Development",
-            "institution": "FIAP",
-            "date": "2017 - 2019"
-        }
-    ],
-    "skills": [
-        "JavaScript",
-        "TypeScript",
-        "Node.js",
-        "Deno",
-        "React.js",
-        "C#",
-        "Python",
-        "NeoVim",
-        "Linux",
-        "Docker"
-    ],
-    "certifications": [
-        {
-            "name": "EF SET English Certificate 73/100 (C2 Proficient)",
-            "institution": "EF SET",
-            "date": "May 2024"
-        },
-        {
-            "name": "NLW Expert Python Track",
-            "institution": "Rocketseat",
-            "date": "Feb 2024"
-        },
-        {
-            "name": "Development of Modern and Scalable Applications with Microservices",
-            "institution": "Full Cycle",
-            "date": "Mar 2022"
-        },
-        {
-            "name": "JavaScript Fullstack Bootcamp",
-            "institution": "Rocketseat",
-            "date": "Oct 2020"
-        },
-        {
-            "name": ".NET Bootcamp",
-            "institution": "Alura",
-            "date": "Sep 2020"
-        },
-        {
-            "name": "React JS Bootcamp",
-            "institution": "Alura",
-            "date": "Sep 2020"
-        },
-        {
-            "name": "Professional Qualification Certificate in Digital Entrepreneurship and IT Management",
-            "institution": "FIAP",
-            "date": "Dec 2019"
-        },
-        {
-            "name": "Professional Qualification Certificate in Mobile Application Development",
-            "institution": "FIAP",
-            "date": "Dec 2019"
-        },
-        {
-            "name": "Professional Qualification Certificate in System Analysis and Web Prototyping",
-            "institution": "FIAP",
-            "date": "Jan 2019"
-        },
-        {
-            "name": "Professional Qualification Certificate in Web 2.0 Developer and Designer",
-            "institution": "FIAP",
-            "date": "Jan 2019"
-        }
-    ],
-    "languages": [
-        "Portuguese: Native",
-        "English: C2 Proficient (EF SET)"
-    ],
-    "volunteering": [
-        {
-            "role": "Hour of Code Instructor",
-            "organization": "HP",
-            "date": "May 2018 - Apr 2019",
-            "description": "Taught programming to teenagers from the local community at the Amparo Santa Cruz Institution in Porto Alegre. This initiative aimed to provide better opportunities and contribute to community development through programming education."
-        }
-    ],
-    "opensource": [
-        {
-            "project": "Deno - Standard Library",
-            "description": "Fixed an example in the JSDocs for the Expect.ObjectContaining in the testing module.",
-            "link": "https://github.com/denoland/std/pull/6357"
-        },
-        {
-            "project": "Microsoft - TypeScript Website",
-            "description": "Translated some files and examples from English to Portuguese as part of a community effort.",
-            "link": "https://github.com/microsoft/TypeScript-Website/pull/1054"
-        }
-    ]
+  "name": "Olavio Lacerda Bueno Junior",
+  "title": "Software Engineer",
+  "location": "Porto Alegre, Rio Grande do Sul, Brazil",
+  "email": "contact@olavio.dev",
+  "linkedin": "https://www.linkedin.com/in/olaviolacerda/",
+  "github": "https://github.com/olaviolacerda",
+  "summary": "I have a rich and diverse career path in software development, spanning over six years and three countries. I started as an intern at a startup, where I learned Ruby on Rails and ReactJS. I then joined a digital payments company, where I improved my skills in NodeJS, API development, and databases, and became a Technical Lead for a challenging project. I also provided remote software development consultancy services to Portugal, where I mastered ReactJS, NodeJS, and discovered Golang. In 2022, I earned an MBA in Software Architecture from IGTI, enhancing my vision for building robust solutions. I also mentored at Mais1Code, helping new talents enter the programming world.\nMy ultimate goal is to become an expert in developing reliable, secure, and high-quality applications, and to help as many people as possible find their place and grow in the software development field.\nLet’s connect and explore new possibilities together!",
+  "experience": [
+    {
+      "title": "Senior Developer",
+      "company": "ADP Brazil Labs",
+      "date": "Jan 2023 - Present",
+      "tasks": [
+        "Development of micro-services and micro front-ends for ADP NextGen Apps.",
+        "Optimizing backend operations through robust and efficient implementations in Node.js.",
+        "Help to improve team’s productivity and code quality.",
+        "Contributing to the Accountant Connect project by integrating systems across the platforms, addressing complex challenges related to security and multi-technology compatibility."
+      ]
+    },
+    {
+      "title": "Senior Engineer",
+      "company": "White Prompt",
+      "date": "May 2022 - Nov 2022",
+      "tasks": [
+        "Create and maintain features for Frontend/Backend and DevOps purposes.",
+        "Help to improve team’s productivity and code quality."
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "company": "Adentis -> Bolttech",
+      "date": "May 2021 - May 2022",
+      "tasks": [
+        "Create new features for Frontend or Backend purposes.",
+        "Maintenance of company’s product, fixing both projects, front and back.",
+        "Help to improve team’s productivity and code quality."
+      ]
+    },
+    {
+      "title": "Technical Lead Developer",
+      "company": "Phi",
+      "date": "Oct 2020 - May 2021",
+      "tasks": [
+        "Help the team to be more confident, productive and learn a bunch of new things.",
+        "Creating whole new microservices for banking purposes.",
+        "Azure DevOps environment (documentation, deploy, repositories, scrum board).",
+        "Async and synchronous microservices communication.",
+        "Banking and providers integrations."
+      ]
+    },
+    {
+      "title": "Fullstack Software Developer",
+      "company": "Phi",
+      "date": "Jul 2019 - Oct 2020",
+      "tasks": [
+        "Digital accounts integrations, financial transactions processing.",
+        "Card Issuing (integrations).",
+        "Build Node and Typescript APIs based on Microservice Architecture.",
+        "Async and synchronous microservices communication.",
+        "Banking and providers integrations."
+      ]
+    },
+    {
+      "title": "Fullstack Developer",
+      "company": "Real Networking",
+      "date": "Sep 2018 - Jul 2019",
+      "tasks": [
+        "Create new features for Frontend or Backend purposes.",
+        "Maintenance of PostgreSQL database hosted in the cloud.",
+        "Maintenance of company’s product, fixing both projects, front (React.js) and back (Ruby on Rails).",
+        "Configuration of the environment (From Heroku/Azure to AWS and then to Google Cloud).",
+        "Help to improve team’s productivity and code quality.",
+        "Mentoring new developers."
+      ]
+    },
+    {
+      "title": "Intern",
+      "company": "Real Networking",
+      "date": "Jul 2017 - Aug 2018",
+      "tasks": [
+        "Create new features for Frontend or Backend purposes.",
+        "Maintenance of PostgreSQL database hosted in the cloud.",
+        "Maintenance of company’s product, fixing both projects, front (React.js) and back (Ruby on Rails)."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "field": "Software Architecture",
+      "institution": "Institute of Management in Information Technology",
+      "date": "2021 - Jan 2022"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "UniRitter",
+      "date": "Mar 2014 - Aug 2018"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "React.js",
+    "Linux",
+    "Docker"
+  ],
+  "certifications": [
+    {
+      "name": "Designing an Accessible User Experience",
+      "institution": "Deque University",
+      "date": "May 2023"
+    },
+    {
+      "name": "JS Expert",
+      "institution": "EW Academy",
+      "date": "Dec 2022"
+    },
+    {
+      "name": "EF SET English Certificate 78/100 (C2 Proficient)",
+      "institution": "EF SET",
+      "date": "Dec 2021"
+    },
+    {
+      "name": "Software Architecture Bootcamp",
+      "institution": "Institute of Management in Information Technology",
+      "date": "Sep 2020"
+    },
+    {
+      "name": "Node.js, Typescript, TDD, Clean Architecture and SOLID",
+      "institution": "Udemy",
+      "date": "Jun 2020"
+    },
+    {
+      "name": "Software Architecture: Domain-Driven Design",
+      "institution": "LinkedIn",
+      "date": "Mar 2020"
+    },
+    {
+      "name": "Node.js for Beginners",
+      "institution": "NodeBR",
+      "date": "Jan 2019"
+    },
+    {
+      "name": "React.js Developer",
+      "institution": "Alura",
+      "date": "Jun 2017"
+    },
+    {
+      "name": "Ruby on Rails Developer",
+      "institution": "Alura",
+      "date": "Jan 2017"
+    }
+  ],
+  "languages": ["Portuguese: Native", "English: Professional proficiency"],
+  "volunteering": [
+    {
+      "role": "Development Mentor",
+      "organization": "Mais1Code",
+      "date": "Jul 2021 - Dec 2021",
+      "description": "Taught programming to teenagers from communities at São Paulo, remotely. This initiative aimed to provide better opportunities and contribute to community development through programming education."
+    }
+  ]
 }
